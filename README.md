@@ -58,17 +58,6 @@ graph TD
 * **Database:** MySQL / MariaDB
 
 ---
-
-## 📁 Struktur Dokumentasi Proyek
-Untuk menjaga kebersihan kode utama dan mempermudah pemahaman, dokumentasi proyek diletakkan pada lokasi berikut:
-
-* **README.md (File Ini):** Panduan instalasi cepat, gambaran umum fitur, arsitektur, dan lisensi.
-* **Dokumentasi Tambahan (Opsional):** Jika Anda memiliki file diagram ERD, manual book, atau bukti sertifikat HKI, Anda dapat menyimpannya di dalam folder `/docs` di dalam repositori ini:
-  * `docs/arsitektur-sistem.md` — Penjelasan detail flowchart & database schema.
-  * `docs/panduan-pengguna.md` — Panduan penggunaan aplikasi disertai screenshot UI.
-
----
-
 ## ⚙️ Panduan Instalasi Lokal (Development)
 
 Jika Anda ingin menjalankan proyek ini secara lokal untuk kebutuhan pengujian:
