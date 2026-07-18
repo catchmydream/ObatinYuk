@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    html {
+        @apply antialiased scroll-smooth;
+    }
+}
+
+@layer utilities {
+    .glass-effect {
+        @apply bg-white/70 backdrop-blur-md border border-white/20 shadow-sm dark:bg-base-100/70 dark:border-base-300;
+    }
+}
