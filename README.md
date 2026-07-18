@@ -19,7 +19,7 @@
 ---
 
 ## 📝 Tentang Proyek
-**Apotek AI** adalah platform konsultasi farmasi pintar berbasis web yang menggabungkan metode kecerdasan buatan konvensional (**Sistem Pakar Forward Chaining**) dengan teknologi **Generative AI (Google Gemini API)**. 
+**ObatinYuk** adalah platform konsultasi farmasi pintar berbasis web yang menggabungkan metode kecerdasan buatan konvensional (**Sistem Pakar Forward Chaining**) dengan teknologi **Generative AI (Google Gemini API)**. 
 
 Aplikasi ini membantu pengguna mengidentifikasi gejala penyakit ringan secara mandiri, memberikan rekomendasi obat yang relevan berdasarkan database klinis apotek, serta menyajikan penjelasan medis yang ramah, ringkas, dan aman (gaya *Halodoc-style*) melalui asisten virtual (Apoteker AI).
 
